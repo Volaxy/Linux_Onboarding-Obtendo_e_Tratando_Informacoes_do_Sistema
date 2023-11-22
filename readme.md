@@ -27,5 +27,20 @@ URL do curso -> [Linux Onboarding - Obtendo e Tratando Informações do Sistema]
   * Ler um input do usuário.
 * Executar um script.
 
+## 02 - Informações do Sistema - Hardware
+
+### 01 - Obtendo Informações da Rede
+* Ver informações do **ip** com `ip addr`.
+* Mostrar o **ip local** com `hostname -I`.
+* Informações sobre **DNS** e **Hosts** no sistema.
+
+### 02 - Informações de Memória e CPU
+* Ler informações do *Hardware* com `lshw`.
+* Informações sobre a memória.
+* Informações sobre a **CPU**.
+
+### 03 - Dispositivos de Blocos
+* Local dos dispositivos do sistema.
+
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
