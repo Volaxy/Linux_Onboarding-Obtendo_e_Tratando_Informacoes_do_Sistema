@@ -42,5 +42,11 @@ URL do curso -> [Linux Onboarding - Obtendo e Tratando Informações do Sistema]
 ### 03 - Dispositivos de Blocos
 * Local dos dispositivos do sistema.
 
+## 03 - Informações do Sistema - Logs
+
+### 01 - Principais Arquivos de Logs no Sistema
+* Acessar os logs do sistema.
+* Monitorar um arquivo em tempo real.
+
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
