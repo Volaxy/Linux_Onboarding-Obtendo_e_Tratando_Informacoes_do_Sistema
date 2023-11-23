@@ -55,5 +55,16 @@ URL do curso -> [Linux Onboarding - Obtendo e Tratando Informações do Sistema]
 * Matar processos com `kill`.
 * Mostrar a árvore de processos com `pstree`.
 
+## 05 - Tipos de Usuários e os seus Papeis
+
+### 01 - Escalando Privilégios com o Sudo
+* Arquivo onde está armazenado os privilégios de usuário do sistema.
+* Mostrar os privilégios do usuário local.
+* Mudar para o super usuário com `su`.
+
+### 02 - Diferenças entre o Root e os demais Usuários
+* Trocar a senha de um usuário com `passwd`.
+* Visualizar onde são armazenados os dados de um usuário.
+
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
