@@ -48,5 +48,12 @@ URL do curso -> [Linux Onboarding - Obtendo e Tratando Informações do Sistema]
 * Acessar os logs do sistema.
 * Monitorar um arquivo em tempo real.
 
+## 04 - Visualizando e Gerenciando Processos
+
+### 01 - Listando Processos com o PS e o Top
+* Mostrar os processos com `ps` e `top`.
+* Matar processos com `kill`.
+* Mostrar a árvore de processos com `pstree`.
+
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
